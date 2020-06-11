@@ -2,7 +2,8 @@
 
 A new Flutter application.
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![GitHub Logo](/images/logo.png)
+![screenshot](https://github.com/chenable1002/xylophone2-flutter/blob/master/xylophone.PNG)
 
 ## Getting Started
 
