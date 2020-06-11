@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
