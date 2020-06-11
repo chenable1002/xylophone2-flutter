@@ -2,7 +2,6 @@
 
 A new Flutter application.
 
-![GitHub Logo](/images/logo.png)
 ![screenshot](https://github.com/chenable1002/xylophone2-flutter/blob/master/xylophone.PNG)
 
 ## Getting Started
