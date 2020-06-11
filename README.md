@@ -1,6 +1,6 @@
 # xylophone
 
-A new Flutter application.
+A Flutter application to play music as Xylophone.
 
 ![screenshot](https://github.com/chenable1002/xylophone2-flutter/blob/master/xylophone.PNG)
 
